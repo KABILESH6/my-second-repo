@@ -1,1 +1,2 @@
-# I am an aspiring AI-driven Full Stack Developer
+#!/bash/bin
+I am an Aspiring Full Stack AI Developer
