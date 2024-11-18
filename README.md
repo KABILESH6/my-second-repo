@@ -1,2 +1,2 @@
-#!/bash/bin
-I am an Aspiring Full Stack AI Developer
+#my-first-repo minor update!
+I am an Aspiring software Developer
