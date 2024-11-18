@@ -1,1 +1,2 @@
-# I am an aspiring AI-driven Full Stack Developer
+#my-first-repo minor update!
+I am an Aspiring software Developer
